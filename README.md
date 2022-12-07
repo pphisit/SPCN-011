@@ -39,8 +39,11 @@ sudo hostnamectl set-hostname Pea-clone-1-150
 และทำการตั้งเวลาให้เป็นเวลาไทย โดยใช้คำสั่ง
 
 sudo timedatectl set-timezone Asia/Bangkok
+
+![create](https://user-images.githubusercontent.com/109591322/206214159-77a4dcb7-984e-4c9a-9a7f-992c14a0cbb2.png)
+
 ![create](https://user-images.githubusercontent.com/109591322/206214150-88b01a75-2edd-413a-aed4-1fb0f48970b0.png)
-![create](https://user-images.githubusercontent.com/109591322/206214159-77a4dcb7-984e-4c9a-9a7f-992c14a0cbb2.png")
+
 
 ### แก้ไข IPs ไม่ให้ชนกัน
 
@@ -49,5 +52,8 @@ sudo timedatectl set-timezone Asia/Bangkok
 
 ![create](https://user-images.githubusercontent.com/109591322/206209566-60668052-b07a-4794-93c1-9d631b522c0e.png)
 
-![create](https://user-images.githubusercontent.com/109591322/206212023-70ff5f85-15ba-49de-bb89-7d6322ee3269.png")
+![create](https://user-images.githubusercontent.com/109591322/206209578-f6675a65-4ff1-41c6-85ac-c7660b8a6c4a.png)
+
+## other os 
+![create](https://user-images.githubusercontent.com/109591322/206214109-6419d85f-39d7-4ee6-85e6-8814e6c1500e.png)
 
