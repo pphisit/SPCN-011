@@ -57,3 +57,6 @@ sudo timedatectl set-timezone Asia/Bangkok
 ## other os 
 ![create](https://user-images.githubusercontent.com/109591322/206214109-6419d85f-39d7-4ee6-85e6-8814e6c1500e.png)
 
+## summary and console CT
+![create](https://user-images.githubusercontent.com/109591322/206220356-696b5e3e-3585-4e19-b3f1-8ef64d6d1903.png)
+![create](https://user-images.githubusercontent.com/109591322/206219800-303fc783-a49e-4a3b-a3be-a65c9bf51b8f.png)
