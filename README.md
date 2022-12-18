@@ -63,7 +63,7 @@ sudo timedatectl set-timezone Asia/Bangkok
 - ln -s /etc/machine-id /var/lib/dbus/machine-id //เชื่อมข้อมูลเข้ากับ machine-id
 - reboot 
 
-ทำแบบนี้กับเครื่อง clone อักอัน
+ทำแบบนี้กับเครื่อง clone อีกอัน
 ```
 
 
